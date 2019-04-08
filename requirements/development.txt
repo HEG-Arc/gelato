@@ -1,6 +1,6 @@
 # Local development dependencies go here
 -r base.txt
-Sphinx
+Sphinx==2.0.1
 django-debug-toolbar
 docutils
 pygraphviz
