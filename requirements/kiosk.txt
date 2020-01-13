@@ -1,4 +1,4 @@
 python-daemon
-evdev
+evdev==1.3.0
 requests
 web.py
