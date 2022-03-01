@@ -1,4 +1,4 @@
-Django
+Django==4.0.3
 django-extensions
 Pillow
 psycopg2
