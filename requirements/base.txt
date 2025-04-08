@@ -1,5 +1,5 @@
 Django
-django-extensions
+django-extensions==4.0
 Pillow
 psycopg2
 pytz
